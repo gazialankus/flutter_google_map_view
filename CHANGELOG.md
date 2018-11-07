@@ -1,3 +1,7 @@
+## [0.0.15] - 11-07-2018
+
+* Fixing Android compile issue Only safe (?.) or non-null asserted (!!.)
+
 ## [0.0.14] - 7-18-2018
 
 * Fixing Android compile issue

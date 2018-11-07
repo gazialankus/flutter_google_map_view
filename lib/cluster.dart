@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:map_view/marker.dart';
+import 'package:cirrus_map_view/marker.dart';
 
 class Cluster extends Marker {
   final int clusterCount;
