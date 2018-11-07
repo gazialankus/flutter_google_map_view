@@ -1,7 +1,7 @@
 import 'dart:ui';
 
-import 'package:map_view/figure_joint_type.dart';
-import 'package:map_view/location.dart';
+import 'package:cirrus_map_view/figure_joint_type.dart';
+import 'package:cirrus_map_view/location.dart';
 
 class Polyline {
   final String id;

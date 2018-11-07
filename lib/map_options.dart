@@ -1,6 +1,6 @@
-import 'package:map_view/camera_position.dart';
-import 'package:map_view/location.dart';
-import 'package:map_view/map_view_type.dart';
+import 'package:cirrus_map_view/camera_position.dart';
+import 'package:cirrus_map_view/location.dart';
+import 'package:cirrus_map_view/map_view_type.dart';
 
 class MapOptions {
   /// Allows the app to receive location updates.

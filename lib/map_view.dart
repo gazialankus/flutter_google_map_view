@@ -1,14 +1,14 @@
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:map_view/camera_position.dart';
-import 'package:map_view/indoor_building.dart';
-import 'package:map_view/location.dart';
-import 'package:map_view/map_options.dart';
-import 'package:map_view/marker.dart';
-import 'package:map_view/polygon.dart';
-import 'package:map_view/polyline.dart';
-import 'package:map_view/toolbar_action.dart';
+import 'package:cirrus_map_view/camera_position.dart';
+import 'package:cirrus_map_view/indoor_building.dart';
+import 'package:cirrus_map_view/location.dart';
+import 'package:cirrus_map_view/map_options.dart';
+import 'package:cirrus_map_view/marker.dart';
+import 'package:cirrus_map_view/polygon.dart';
+import 'package:cirrus_map_view/polyline.dart';
+import 'package:cirrus_map_view/toolbar_action.dart';
 
 export 'camera_position.dart';
 export 'camera_position.dart';

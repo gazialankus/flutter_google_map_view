@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:map_view/location.dart';
+import 'package:cirrus_map_view/location.dart';
 import 'package:uri/uri.dart';
 import 'map_view.dart';
 import 'locations.dart';
