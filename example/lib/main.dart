@@ -11,7 +11,7 @@ import 'package:cirrus_map_view/polyline.dart';
 /// - Static Maps API
 /// - Android Maps API
 /// - iOS Maps API
-const API_KEY = "***REMOVED***";
+const API_KEY = "GOOGLE_MAP_TOKEN_HERE";
 
 void main() {
   MapView.setApiKey(API_KEY);
