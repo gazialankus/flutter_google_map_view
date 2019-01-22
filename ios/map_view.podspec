@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'cirrus_map_view'
-  s.version          = '0.0.12'
+  s.version          = '0.0.18'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
 A new flutter plugin project.
@@ -18,5 +18,6 @@ A new flutter plugin project.
   s.dependency 'GoogleMaps'
   s.compiler_flags = '-fno-modules'
   s.ios.deployment_target = '8.0'
+  s.static_framework = true
 end
 
