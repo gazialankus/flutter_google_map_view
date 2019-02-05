@@ -1,3 +1,9 @@
+## [0.0.19] - 11-07-2018
+* Updating map library to 'com.google.android.gms:play-services-maps:16.0.0'
+
+## [0.0.18] - 11-07-2018
+* Fixing support for !use_imports and Swift (improve interoperability with other plugins)
+
 ## [0.0.15] - 11-07-2018
 
 * Fixing Android compile issue Only safe (?.) or non-null asserted (!!.)
